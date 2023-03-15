@@ -1,6 +1,6 @@
-# default-web-applikation med page controller
+# Four things plus projekt
 
-## Startkode på 2. semester efterår 2022
+## Bygget på startkoden forår 2023
 
 Dette repository er lavet i forbindelse med 2. semester på
 Datamatikeruddannelsen i Lyngby og på Bornholm efterår 2022.
